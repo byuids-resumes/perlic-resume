@@ -3,7 +3,7 @@ layout: cv
 title: Jared Perlic's Resume
 ---
 # Jared Perlic
-Computer Scientist student at Brigham Young University - Idaho.
+Computer Scientist studying at Brigham Young University - Idaho.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
