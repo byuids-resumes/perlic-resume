@@ -6,17 +6,17 @@ title: Jared Perlic's Resume
 Computer Scientist studying at Brigham Young University - Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="per17002@byui.edu">per17002@byui.edu</a>
+| <a href="https://www.linkedin.com/in/jared-perlic/">LinkedIn</a>
+| <a href="https://github.com/jrperlic/">GitHub</a>
+  <!--Add more links if desired.-->
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`Expected April 2023`
+`[Start month-year] - Expected April 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.9 Major GPA
@@ -32,26 +32,22 @@ __Georgia Tech Research Institute__, Smyrna, GA
 - Created web pages and automated test scripts for the front end.
 - Added models and views to the back end database.
 
-### Applied Programming Project
+### Projects
 
 `April 2021 - July 2021`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Applied Programming Project__, BYU Idaho
 
 - Worked with three undergraduate students to design and program an application to analyze golf swings and provide advice for improvement.
 - Utilizes object-oriented programming, OpenCV, and MPII pose estimation.
 
-### Star Data Analysis Project
-
 `2020`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Star Data Analysis Project__, BYU Idaho
 
 - Developed a program that manipulates and analyzes a dataset of 24,000 nearby stars.
 - Produces charts to help the user visualize the information.
 
-### Robot Programming Project
-
 `2015`
-__VEX Robotics__, Loveland, CO
+__Robot Programming Project__, VEX Robotics
 
 - Designed and constructed a robot with two other team members.
 - Using ROBOTC, programmed the robot to move autonomously, collect multiple balls, and score them in a goal.
