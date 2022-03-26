@@ -16,7 +16,7 @@ Computer Scientist studying at Brigham Young University - Idaho.
 
 ## Education
 
-`[Start month-year] - Expected April 2023`
+`Expected April 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.9 Major GPA
